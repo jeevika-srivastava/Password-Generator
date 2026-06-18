@@ -18,9 +18,9 @@ Run the script directly through your terminal or command prompt:
 ```bash
 python password_generator.py
 ```
-##Skills Used:
--Python
--Random Module
--Basic Cybersecurity Concepts
+## Skills Used:
+* Python
+* Random Module
+* Basic Cybersecurity Concepts
 
 Created as part of my Cybersecurity learning journey 
